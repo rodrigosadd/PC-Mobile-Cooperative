@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: LocationScenes
+  m_EditorClassIdentifier: 
+  m_GroupName: LocationScenes
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f2e7d6618c086f1438a71019d0404699
+  m_SerializeEntries:
+  - m_GUID: d1ed6cd3b2b77c2489b08e0abae99d96
+    m_Address: Assets/Scenes/Lobby.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c5d38d294e2ad844f9d905ed44411280, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 036c9cd52a9fb6d4ea2d128fd8500e5b, type: 2}
+    - {fileID: 11400000, guid: d36ea1bc47a2a0940b73a6889890ae05, type: 2}
